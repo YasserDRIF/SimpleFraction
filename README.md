@@ -1,6 +1,6 @@
-# SimpleFraction
+# TD 1 : SimpleFraction
 
- # TD 1
+# DRIF Yasser El Habib - 22107524
 ## Remarques préliminaires
 * Pour l'ensemble des TDs, vous créerez un compte individuel sur [github](https://github.com/) si vous n'en possédez pas déjà un.
 Vous nommerez ce compte de la façon suivante: `uvsq<MonNuméroÉtudiant>`.
